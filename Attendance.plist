@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://huizhou.centaline.com.cn:1001/AppDownLoad/InstallPackage/AttendanceV2.1.0.ipa</string>
+					<string>http://huizhou.centaline.com.cn:1001/AppDownLoad/InstallPackage/AttendanceV2.2.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>huizhou.centaline.Attendance</string>
 				<key>bundle-version</key>
-				<string>2.1.0</string>
+				<string>2.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>口袋中原2.1.0</string>
+				<string>口袋中原2.2.0</string>
 			</dict>
 		</dict>
 	</array>
