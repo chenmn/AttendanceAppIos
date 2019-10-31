@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://hfccep.centaline.com.cn:80/AppDownLoad/InstallPackage/AttendanceV2.6.0.ipa</string>
+					<string>http://10.1.70.16:5677/AppDownLoad/InstallPackage/AttendanceV2.6.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>huizhou.centaline.Attendance</string>
 				<key>bundle-version</key>
-				<string>2.5.0</string>
+				<string>2.6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
